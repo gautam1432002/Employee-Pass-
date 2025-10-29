@@ -1,0 +1,5 @@
+{
+  "name": "Employee Pass Generator",
+  "description": "A registration site for employees to generate an ID pass. Admins can manage employee data with a password.",
+  "requestFramePermissions": []
+}
